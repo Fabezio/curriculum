@@ -1,0 +1,259 @@
+General
+Complete name                            : actrices.png
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+File size                                : 202 KiB
+
+Image
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+Format_Compression                       : LZ77
+Width                                    : 600 pixels
+Height                                   : 400 pixels
+Bit depth                                : 32 bits
+Compression mode                         : Lossless
+Stream size                              : 202 KiB (100%)
+
+General
+Complete name                            : burger-admin.png
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+File size                                : 170 KiB
+
+Image
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+Format_Compression                       : LZ77
+Width                                    : 600 pixels
+Height                                   : 400 pixels
+Bit depth                                : 32 bits
+Compression mode                         : Lossless
+Stream size                              : 170 KiB (100%)
+
+General
+Complete name                            : burger.png
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+File size                                : 269 KiB
+
+Image
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+Format_Compression                       : LZ77
+Width                                    : 600 pixels
+Height                                   : 400 pixels
+Bit depth                                : 32 bits
+Compression mode                         : Lossless
+Stream size                              : 269 KiB (100%)
+
+General
+Complete name                            : cv-black.svg
+File size                                : 1.99 KiB
+
+General
+Complete name                            : cv.svg
+File size                                : 1.42 KiB
+
+General
+Complete name                            : facebook-share.png
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+File size                                : 24.0 KiB
+
+Image
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+Format_Compression                       : LZ77
+Width                                    : 600 pixels
+Height                                   : 400 pixels
+Bit depth                                : 32 bits
+Compression mode                         : Lossless
+Stream size                              : 24.0 KiB (100%)
+
+General
+Complete name                            : facebook-video.png
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+File size                                : 17.6 KiB
+
+Image
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+Format_Compression                       : LZ77
+Width                                    : 600 pixels
+Height                                   : 400 pixels
+Bit depth                                : 32 bits
+Compression mode                         : Lossless
+Stream size                              : 17.6 KiB (100%)
+
+General
+Complete name                            : google-translate.png
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+File size                                : 35.5 KiB
+
+Image
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+Format_Compression                       : LZ77
+Width                                    : 600 pixels
+Height                                   : 400 pixels
+Bit depth                                : 32 bits
+Compression mode                         : Lossless
+Stream size                              : 35.5 KiB (100%)
+
+General
+Complete name                            : johncodeur.png
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+File size                                : 158 KiB
+
+Image
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+Format_Compression                       : LZ77
+Width                                    : 600 pixels
+Height                                   : 400 pixels
+Bit depth                                : 32 bits
+Compression mode                         : Lossless
+Stream size                              : 158 KiB (100%)
+
+General
+Complete name                            : John.jpg
+Format                                   : JPEG
+File size                                : 53.1 KiB
+
+Image
+Format                                   : JPEG
+Width                                    : 400 pixels
+Height                                   : 400 pixels
+Color space                              : YUV
+Chroma subsampling                       : 4:4:4
+Bit depth                                : 8 bits
+Compression mode                         : Lossy
+Stream size                              : 53.1 KiB (100%)
+
+General
+Complete name                            : me.jpg
+Format                                   : JPEG
+File size                                : 154 KiB
+
+Image
+Format                                   : JPEG
+Width                                    : 1 278 pixels
+Height                                   : 1 278 pixels
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Compression mode                         : Lossy
+Stream size                              : 154 KiB (100%)
+ColorSpace_ICC                           : RGB
+
+General
+Complete name                            : see.ico
+Format                                   : ICO
+File size                                : 3.69 KiB
+
+Image
+Width                                    : 30 pixels
+Height                                   : 30 pixels
+Bit depth                                : 32 bits
+Stream size                              : 3.67 KiB (99%)
+
+General
+Complete name                            : serpent.png
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+File size                                : 5.70 KiB
+
+Image
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+Format_Compression                       : LZ77
+Width                                    : 600 pixels
+Height                                   : 400 pixels
+Bit depth                                : 32 bits
+Compression mode                         : Lossless
+Stream size                              : 5.70 KiB (100%)
+
+General
+Complete name                            : snake-maj.png
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+File size                                : 7.56 KiB
+
+Image
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+Format_Compression                       : LZ77
+Width                                    : 928 pixels
+Height                                   : 629 pixels
+Bit depth                                : 32 bits
+Compression mode                         : Lossless
+Stream size                              : 7.56 KiB (100%)
+
+General
+Complete name                            : twitter-retweet.png
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+File size                                : 20.6 KiB
+
+Image
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+Format_Compression                       : LZ77
+Width                                    : 600 pixels
+Height                                   : 400 pixels
+Bit depth                                : 32 bits
+Compression mode                         : Lossless
+Stream size                              : 20.6 KiB (100%)
+
+General
+Complete name                            : twitter-video.png
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+File size                                : 17.5 KiB
+
+Image
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+Format_Compression                       : LZ77
+Width                                    : 600 pixels
+Height                                   : 400 pixels
+Bit depth                                : 32 bits
+Compression mode                         : Lossless
+Stream size                              : 17.5 KiB (100%)
+
+General
+Complete name                            : voyage.png
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+File size                                : 202 KiB
+
+Image
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+Format_Compression                       : LZ77
+Width                                    : 600 pixels
+Height                                   : 400 pixels
+Bit depth                                : 32 bits
+Compression mode                         : Lossless
+Stream size                              : 202 KiB (100%)
+
+General
+Complete name                            : youtube.png
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+File size                                : 40.9 KiB
+
+Image
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+Format_Compression                       : LZ77
+Width                                    : 600 pixels
+Height                                   : 400 pixels
+Bit depth                                : 32 bits
+Compression mode                         : Lossless
+Stream size                              : 40.9 KiB (100%)
+
+
